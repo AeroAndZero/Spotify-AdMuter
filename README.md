@@ -1,4 +1,4 @@
-# Spotify-AdMuter ![icon](icon48.png) [[Download]](https://github.com/AeroAndZero/Spotify-AdMuter/releases/download/v1.0/Spotify-AdMuter.zip)
+# Spotify-AdMuter ![icon](icon16.png) [[Download]](https://github.com/AeroAndZero/Spotify-AdMuter/releases/download/v1.0/Spotify-AdMuter.zip)
  A Google Chrome extension that mutes spotify's ads.         
  Notice : This extension won't *remove* spotify's ads it will just mute them. u gotta pay for no ads :)      
  
