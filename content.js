@@ -15,7 +15,7 @@ window.onload = (event) => {
   pageLoad = true;
   try{
   	volumeButton = document.querySelector('[aria-label="Mute"]');
-  }catch{
+  }catch(err){
   	alert("Extension or Page didn't load correctly, please refresh the page");
   }
 };
@@ -40,7 +40,7 @@ window.setInterval( function(){
 				}
 			}
 		}
-	}catch{
+	}catch(err){
 			alert("Extension or Page didn't load correctly, please refresh the page");
 	}
 },1000)
