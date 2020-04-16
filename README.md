@@ -16,5 +16,8 @@
  - And Now you are done ! it should look like this :             
  ![done](readmeAssets/step3.png)                
                     
+## Preview :
+![preview](readmeAssets/preview.gif)                
+                    
                     
 #### Sorry spotify but I would really like to listen to your ads if they weren't cringy :)
