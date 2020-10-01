@@ -28,7 +28,3 @@
  ![done](readmeAssets/step3.png)   
 ## Preview :
 ![preview](readmeAssets/preview.gif) 
-# Created by :
-***👨🏻‍💻Ayush Thakur***
-
-**Free Software, Hell Yeah!**
